@@ -1,8 +1,9 @@
+# Açık Kaynak Bilgisayar Bilimleri Derecesi
+
 # Ön Şartlar
 - Altyazıları okuyup anlayacak kadar İngilizce bilgisi
 - Bolca ☕☕
 
-# Açık Kaynak Bilgisayar Bilimleri Derecesi
 ## Destansı Yolculuğunuzda Karşılaşabileceğiniz Sorunlar (S.S.S)
 #### S.1 -) Yazılım öğrenme sürecinde destek bulabileceğim veya  insanlarla tanışabileceğim platforma ihtiyaç duyuyorum. Türkiye’de bunun için platformlar mevcut mu?
 - C.1-) *Evet*, Türkiye’de aktif olarak çalışan ve harika insanların bulunduğu birçok platform mevcut birkaçından bahsedecek olursak;
