@@ -13,12 +13,12 @@
 - [{Eksicode}](https://www.eksicode.org/): Girdiğim en aktif ve yardımsever online yazılımcı geliştirme platformu, Her bilgi seviyesinden insanın buluştuğu yardımsever bir çok insanın bulunduğu güzel bir online platform telegram gruplarına bir göz atmanızı tavsiye ediyorum. (Cat Photos Not Allowed!  😂 ).
 
 #### S.2 -) Bu yol haritası, farklı bir yol haritasi ile birlikte kullanılabilir mi?
-- *Evet*, Hatta Web Geliştirme öğrenmek isteyenler için harika bir önerim var. @AtakanErmis in hazırladığı harika bir yol haritası var göz atmak isterseniz : [Web Geliştirici Yol Haritası](https://github.com/AtakanErmis/gelistirici-yol-haritasi)   
+-C.2 *Evet*, Hatta Web Geliştirme öğrenmek isteyenler için harika bir önerim var. @AtakanErmis in hazırladığı harika bir yol haritası var göz atmak isterseniz : [Web Geliştirici Yol Haritası](https://github.com/AtakanErmis/gelistirici-yol-haritasi)   
    	 
 
 ## Ön Söz
 
-bu özenle hazırlanmış liste MIT, Stanford gibi saygı değer üniversitelerin bedava kurslarından oluşan, Bilgisayar Bilimi derecesi için gerekli eğitimleri içermektedir.
+Bu özenle hazırlanmış liste MIT, Stanford gibi saygı değer üniversitelerin bedava kurslarından oluşan, Bilgisayar Bilimi derecesi için gerekli eğitimleri içermektedir.
 
 ## Bilgisayar Bilimlerine Giriş
 
@@ -48,6 +48,8 @@ Kurslar | Okul | Süre | Efor | Frekans | Ön Şartlar
 [Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) | MIT | 12 hafta | 6-10 saat/hafta | Kendiniz belirleyin | [pre-calculus](https://www.edx.org/course/precalculus-asux-mat170x)
 [Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration) | MIT | 15 hafta | 6-10 saat/hafta | Kendiniz belirleyin | Calculus 1A: Differentiation
 [Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x-0)| MIT | 8 hafta | 6-10 saat/hafta | Kendiniz belirleyin | Calculus 1B: Integration
+[Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/) |MIT OCW| 13 Hafta| 6-10 saat/hafta| Kendiniz belirleyin|Calculus 1A Calculus 1B|
+[Discrete Mathematics](http://www.aduni.org/courses/discrete/)|Aduni| 4 Hafta| 6-10 saat/hafta| Kendiniz Belirleyin|Mathemativs for Computer Science|
 [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers) | UT Austin | 15 hafta | 6-10 saat/hafta | Kendiniz belirleyin | [pre-calculus](https://www.edx.org/course/precalculus-asux-mat170x)
 [Introduction to Probability and Data](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprobability-intro) | Duke | 5 hafta | 5-7 saat/hafta | ayda iki kez | Yok
 [Intro to Statistics ](https://www.udacity.com/course/intro-to-statistics--st101) | Udacity | 8 hafta | 5-7 saat/hafta | Kendiniz belirleyin | Yok
