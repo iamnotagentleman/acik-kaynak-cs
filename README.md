@@ -71,7 +71,9 @@ Kurslar | Okul | Süre | Efor | Frekans | Ön Şartlar
 [Computer Science: Algorithms, Theory, and Machines](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fcs-algorithms-theory-machines) | Princeton | 10 Hafta | 2-5 saat/hafta | ayda bir kez | Calculus 1A (all), basic programming
 [Algorithms, Part I](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Falgorithms-part1) | Princeton | 6 hafta | 6-12 saat/hafta | ayda bir kez | Computer Science: Algorithms, Theory, and Machines
 [Algorithms, Part II](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Falgorithms-part2) | Princeton | 6 hafta | 6-12 saat/hafta | ayda bir kez | Algorithms, Part I
-
+[Computation Structures - Part 1: Digital Circuits](https://www.edx.org/course/computation-structures-part-1-digital-circuits) | MITx | 10 Hafta | 2-5 saat/hafta | ayda bir kez | Yok
+[Computation Structures 2: Computer Architecture](https://www.edx.org/course/computation-structures-2-computer-architecture-2) | MITx | 10 Hafta | 2-5 saat/hafta | ayda bir kez | Yok
+[Computation Structures 3: Computer Organization](https://www.edx.org/course/computation-structures-3-computer-organization-2) | MITx | 10 Hafta | 2-5 saat/hafta | ayda bir kez | Yok
 
 ## Uygulama
 
