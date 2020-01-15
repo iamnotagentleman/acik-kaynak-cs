@@ -13,7 +13,7 @@
 - [{Eksicode}](https://www.eksicode.org/): Girdiğim en aktif ve yardımsever online yazılımcı geliştirme platformu, Her bilgi seviyesinden insanın buluştuğu yardımsever bir çok insanın bulunduğu güzel bir online platform telegram gruplarına bir göz atmanızı tavsiye ediyorum. (Cat Photos Not Allowed!  😂 ).
 
 #### S.2 -) Bu yol haritası, farklı bir yol haritasi ile birlikte kullanılabilir mi?
--C.2 *Evet*, Hatta Web Geliştirme öğrenmek isteyenler için harika bir önerim var. @AtakanErmis in hazırladığı harika bir yol haritası var göz atmak isterseniz : [Web Geliştirici Yol Haritası](https://github.com/AtakanErmis/gelistirici-yol-haritasi)   
+- C.2 *Evet*, Hatta Web Geliştirme öğrenmek isteyenler için harika bir önerim var. @AtakanErmis in hazırladığı harika bir yol haritası var göz atmak isterseniz : [Web Geliştirici Yol Haritası](https://github.com/AtakanErmis/gelistirici-yol-haritasi)   
    	 
 
 ## Ön Söz
