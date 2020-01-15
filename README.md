@@ -36,10 +36,10 @@ Kurslar | Okul | Süre | Efor | Frekans | Ön Şartlar
 [Object Oriented Programming in Java](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fobject-oriented-java)| Duke | 6 hafta | 4-6 saat/hafta |her hafta | Java Programming: Arrays, Lists, and Structured Data
 [Data Structures and Performance](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fdata-structures-optimizing-performance)| Duke | 6 hafta | 6-10 saat/hafta | Her Hafta | Object Oriented Programming in Java
 [Java Programming: Principles of Software Design](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fjava-programming-design-principles) | Duke | 4 hafta | 4-8 saat/hafta | ayda iki kez| Java Programming: Arrays, Lists, and Structured Data
-[Java Programming: Build a Recommendation System](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fjava-programming-recommender) | Duke | 4 hafta | 3-6 saat/hafta | ayda bir | Java Programming: Principles of Software Design
+[Java Programming: Build a Recommendation System](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fjava-programming-recommender) | Duke | 4 hafta | 3-6 saat/hafta | ayda bir kez| Java Programming: Principles of Software Design
 [Programming Languages, Part A](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprogramming-languages) | UW | 5 hafta | 8-16 saat/hafta |ayda bir | Object Oriented Programming in Java
-[Programming Languages, Part B](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprogramming-languages-part-b) | UW | 3 hafta | 8-16 saat/hafta | ayda bir | Programming Languages, Part A
-[Programming Languages, Part C](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprogramming-languages-part-c) | UW | 3 hafta | 8-16 saat/hafta | once a month | Programming Languages, Part B
+[Programming Languages, Part B](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprogramming-languages-part-b) | UW | 3 hafta | 8-16 saat/hafta | ayda bir kez| Programming Languages, Part A
+[Programming Languages, Part C](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprogramming-languages-part-c) | UW | 3 hafta | 8-16 saat/hafta | ayda bir kez | Programming Languages, Part B
 
 ## Matematik
 
