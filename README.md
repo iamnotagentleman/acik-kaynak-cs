@@ -18,7 +18,7 @@
 
 ## Ön Söz
 
-Bu özenle hazırlanmış liste MIT, Stanford gibi saygı değer üniversitelerin bedava kurslarından oluşan, Bilgisayar Bilimi derecesi için gerekli eğitimleri içermektedir.
+Bu özenle hazırlanmış liste MIT, Stanford gibi saygı değer üniversitelerin ücretsiz kurslarından oluşan, Bilgisayar Bilimi derecesi için gerekli eğitimleri içermektedir.
 
 ## Bilgisayar Bilimlerine Giriş
 
