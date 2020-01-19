@@ -10,8 +10,6 @@
 
 - [Mustafa Akgül Özgür Yazılım Kış Kampı (OYK)]( https://kamp.linux.org.tr/) : LKD tarafından Her Sene Kış ve Yaz ayları için Düzenlenen Özgür Yazılım Kampları mevcut yanlış hatırlamıyorsam Kış kampları 3 gün, Yaz kampları ise  14 gün sürmekte harika günler geçireceğiniz bir çok iyi insanla tanışabileceğiniz harika bir etkinlik. Başvuru dönemlerinde ortalama 1000+ başvuru gelmekte 😊 eğer yazıyı okuduğunuzda katılımcı başvuruları açıksa başvurmanızı şiddetle öneriyorum. (@fatiherikli ve OYK 2018 Django sınıfına buradan selamlar 🐍🐍)  
 
-- [{Eksicode}](https://www.eksicode.org/): Girdiğim en aktif ve yardımsever online yazılımcı geliştirme platformu, Her bilgi seviyesinden insanın buluştuğu yardımsever bir çok insanın bulunduğu güzel bir online platform telegram gruplarına bir göz atmanızı tavsiye ediyorum. (Cat Photos Not Allowed!  😂 ).
-
 #### S.2 -) Bu yol haritası, farklı bir yol haritasi ile birlikte kullanılabilir mi?
 - C.2 *Evet*, Hatta Web Geliştirme öğrenmek isteyenler için harika bir önerim var. @AtakanErmis in hazırladığı harika bir yol haritası var göz atmak isterseniz : [Web Geliştirici Yol Haritası](https://github.com/AtakanErmis/gelistirici-yol-haritasi)   
    	 
