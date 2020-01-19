@@ -88,3 +88,16 @@ Kurslar | Okul | Süre | Efor | Frekans | Ön Şartlar
 :-- | :--: | :--: | :--: | :--: | :--:
 [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595) | Udacity | 1 hafta | 5 saat/hafta | Kendiniz Belirleyin | Yok
 [The Unix Workbench](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Funix) | JHU | 4 hafta | 4 saat/hafta | ayda bir kez | Yok
+
+# Kitap Önerileri
+- Kitapları bilgi edinmenin en iyi yolu olarak görüyorum maalesef her cs konusunun kursları yeterince detaylı olmayabiliyor bu açığı kapatmak için kitaplar harika bir seçim
+
+
+Kitap | Yazar | ISBN 
+:-- | :--: | :--: 
+[Computer Networking](https://www.amazon.com/Computer-Networking-Top-Down-Approach-7th/dp/0133594149/ref=dp_ob_title_bk) | James F. Kurose | 978-0133594140
+[Cryptography and Network Security](https://www.amazon.com/Pearson-eText-Cryptography-Network-Security/dp/0135764033/ref=dp_ob_title_bk)|  William Stallings | 978-0135764039
+[Modern Operating Systems](https://www.amazon.com/Modern-Operating-Systems-Andrew-Tanenbaum/dp/013359162X) | Andrew S. Tanenbaum  | 978-0133591620
+[Fundamentals of Database Systems](https://www.amazon.com/Fundamentals-Database-Systems-Ramez-Elmasri/dp/0133970779) | Ramez Elmasri |  978-0133970777
+[Database Systems: A Practical Approach to Design, Implementation, and Management](https://www.amazon.com/Database-Systems-Practical-Implementation-Management/dp/1292061189/ref=dp_ob_title_bk) | Pearson |978-1292061184
+[Artificial Intelligence: A Modern Approach](https://www.amazon.com/Artificial-Intelligence-Modern-Approach-4th/dp/0134610997/ref=dp_ob_title_bk) | Stuart Russel | 978-0134610993
