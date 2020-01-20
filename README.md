@@ -92,6 +92,7 @@ Kurslar | Okul | Süre | Efor | Frekans | Ön Şartlar
 # Kitap Önerileri
 - Kitapları bilgi edinmenin en iyi yolu olarak görüyorum maalesef her cs konusunun kursları yeterince detaylı olmayabiliyor bu açığı kapatmak için kitaplar harika bir seçim
 
+- Dipnot : Bilgiye erişimin herkesin hakkı olduğunu düşünüyorum. Kitapları alacak durumda olmayan kişiler velieroglu@protonmail.com adresinden ulaşabilirler. Dijital arşivimi ihtiyacı olanlar ile paylaşabilirim (R.I.P Aaron SWARTZ)
 
 Kitap | Yazar | ISBN 
 :-- | :--: | :--: 
