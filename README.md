@@ -66,6 +66,8 @@ Kurslar | Okul | Süre | Efor | Frekans | Ön Şartlar
 
 Kurslar | Okul | Süre | Efor | Frekans | Ön Şartlar
 :-- | :--: | :--: | :--: | :--: | :--:
+[Physics I: Classical Mechanics](https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/) | 8 Hafta | 2-5 saat/hafta | Kendiniz belirleyin | Yok
+[Physics II: Electricity and Magnetism](https://ocw.mit.edu/courses/physics/8-02-physics-ii-electricity-and-magnetism-spring-2007/) | 8 hafta | 2-5 saat/hafta| Kendiniz Belirleyin | [Physics I: Classical Mechanics](https://ocw.mit.edu/courses/physics/8-01sc-classical-mechanics-fall-2016/)
 [Computer Science: Algorithms, Theory, and Machines](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fcs-algorithms-theory-machines) | Princeton | 10 Hafta | 2-5 saat/hafta | ayda bir kez | Calculus 1A (all), basic programming
 [Algorithms, Part I](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Falgorithms-part1) | Princeton | 6 hafta | 6-12 saat/hafta | ayda bir kez | Computer Science: Algorithms, Theory, and Machines
 [Algorithms, Part II](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Falgorithms-part2) | Princeton | 6 hafta | 6-12 saat/hafta | ayda bir kez | Algorithms, Part I
