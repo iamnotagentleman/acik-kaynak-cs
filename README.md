@@ -48,7 +48,7 @@ Kurslar | Okul | Süre | Efor | Frekans | Ön Şartlar
 [Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x-0)| MIT | 8 hafta | 6-10 saat/hafta | Kendiniz belirleyin | Calculus 1B: Integration
 [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/) |MIT OCW| 13 Hafta| 6-10 saat/hafta| Kendiniz belirleyin|Calculus 1A Calculus 1B|
 [Discrete Mathematics](http://www.aduni.org/courses/discrete/)|Aduni| 4 Hafta| 6-10 saat/hafta| Kendiniz Belirleyin|Mathematics for Computer Science|
-[Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers) | UT Austin | 15 hafta | 6-10 saat/hafta | Kendiniz belirleyin | [pre-calculus](https://www.edx.org/course/precalculus-asux-mat170x)
+[Introduction to Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) | MIT OCW | 15 hafta | 6-10 saat/hafta | Kendiniz belirleyin | [pre-calculus](https://www.edx.org/course/precalculus-asux-mat170x)
 [Introduction to Probability and Data](https://click.linksynergy.com/deeplink?id=PtFMiHYfEVk&mid=40328&murl=https%3A%2F%2Fwww.coursera.org%2Flearn%2Fprobability-intro) | Duke | 5 hafta | 5-7 saat/hafta | ayda iki kez | Yok
 [Intro to Statistics ](https://www.udacity.com/course/intro-to-statistics--st101) | Udacity | 8 hafta | 5-7 saat/hafta | Kendiniz belirleyin | Yok
 
@@ -106,3 +106,4 @@ Kitap | Yazar | ISBN
 [Software Engineering : a Practioner's Appoarch](https://www.amazon.com/Software-Engineering-Practitioners-Roger-Pressman/dp/0078022126) | Roger S. Pressman | 978-0078022128
 [Security in Computing](https://www.amazon.com/Security-Computing-5th-Charles-Pfleeger/dp/0134085043)| Charles P. Pfleeger | 978-0134085043
 [Computer Graphics: Principles and Practice ](https://www.amazon.com/Computer-Graphics-Principles-Practice-3rd/dp/0321399528) |John F. Hughes | 978-0321399526
+[Introduction to Linear Algebra](https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/0980232775) | Gilbert STRANG | 978-0980232776
