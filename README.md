@@ -104,8 +104,17 @@ Kitap | Yazar | ISBN
 [Fundamentals of Database Systems](https://www.amazon.com/Fundamentals-Database-Systems-Ramez-Elmasri/dp/0133970779) | Ramez Elmasri |  978-0133970777
 [Database Systems: A Practical Approach to Design, Implementation, and Management](https://www.amazon.com/Database-Systems-Practical-Implementation-Management/dp/1292061189/ref=dp_ob_title_bk) | Pearson |978-1292061184
 [Artificial Intelligence: A Modern Approach](https://www.amazon.com/Artificial-Intelligence-Modern-Approach-4th/dp/0134610997/ref=dp_ob_title_bk) | Stuart Russel | 978-0134610993
-[Disturbuted Systems](https://www.amazon.com/Distributed-Systems-George-F-Coulouris/dp/0273760599/ref=dp_ob_title_bk) |  George F. Coulouris |978-0273760597
+[Disturbuted Systems](https://www.amazon.com/Di[]stributed-Systems-George-F-Coulouris/dp/0273760599/ref=dp_ob_title_bk) |  George F. Coulouris |978-0273760597
 [Software Engineering : a Practioner's Appoarch](https://www.amazon.com/Software-Engineering-Practitioners-Roger-Pressman/dp/0078022126) | Roger S. Pressman | 978-0078022128
 [Security in Computing](https://www.amazon.com/Security-Computing-5th-Charles-Pfleeger/dp/0134085043)| Charles P. Pfleeger | 978-0134085043
 [Computer Graphics: Principles and Practice ](https://www.amazon.com/Computer-Graphics-Principles-Practice-3rd/dp/0321399528) |John F. Hughes | 978-0321399526
 [Introduction to Linear Algebra](https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/0980232775) | Gilbert STRANG | 978-0980232776
+
+# Do you Challange me |BOOK CHALLANGE| ?
+
+- Bu Bölümde bitirmesi okuması ve anlaması zor kitaplar yer alıyor. (Dark Souls oynamaktan zevk alanlara önerilir :)) #CSCHALLANGE hashtagi ile arkadaşlarınıza meydan okuyup kimin patron olduğunu gösterebilirsiniz :) 
+
+Kitap | Yazar | ISBN 
+:-- | :--: | :--:
+[Comprehensive  Mathematics for Computer Scientists 1](https://www.amazon.com/Comprehensive-Mathematics-Computer-Scientists-Universitext/dp/3540368736) |  Guerino B. Mazzola |  Guerino B. Mazzola
+[Comprehensive  Mathematics for Computer Scientists 2](https://www.amazon.com/Comprehensive-Mathematics-Computer-Scientists-Universitext/dp/3540208615)
