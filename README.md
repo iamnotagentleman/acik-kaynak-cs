@@ -110,11 +110,3 @@ Kitap | Yazar | ISBN
 [Computer Graphics: Principles and Practice ](https://www.amazon.com/Computer-Graphics-Principles-Practice-3rd/dp/0321399528) |John F. Hughes | 978-0321399526
 [Introduction to Linear Algebra](https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/0980232775) | Gilbert STRANG | 978-0980232776
 
-# Do you Challange me |BOOK CHALLANGE| ?
-
-- Bu Bölümde bitirmesi okuması ve anlaması zor kitaplar yer alıyor. (Dark Souls oynamaktan zevk alanlara önerilir :)) #CSCHALLANGE hashtagi ile arkadaşlarınıza meydan okuyup kimin patron olduğunu gösterebilirsiniz :) 
-
-Kitap | Yazar | ISBN 
-:-- | :--: | :--:
-[Comprehensive  Mathematics for Computer Scientists 1](https://www.amazon.com/Comprehensive-Mathematics-Computer-Scientists-Universitext/dp/3540368736) |  Guerino B. Mazzola |  Guerino B. Mazzola
-[Comprehensive  Mathematics for Computer Scientists 2](https://www.amazon.com/Comprehensive-Mathematics-Computer-Scientists-Universitext/dp/3540208615)
