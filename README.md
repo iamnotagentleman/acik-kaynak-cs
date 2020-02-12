@@ -109,4 +109,4 @@ Kitap | Yazar | ISBN
 [Security in Computing](https://www.amazon.com/Security-Computing-5th-Charles-Pfleeger/dp/0134085043)| Charles P. Pfleeger | 978-0134085043
 [Computer Graphics: Principles and Practice ](https://www.amazon.com/Computer-Graphics-Principles-Practice-3rd/dp/0321399528) |John F. Hughes | 978-0321399526
 [Introduction to Linear Algebra](https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/0980232775) | Gilbert STRANG | 978-0980232776
-
+[Programming the Semantic Web](http://shop.oreilly.com/product/9780596153823.do) | Toby Segaran, Colin Evans, Jamie Taylor | 978-0596153816
