@@ -4,7 +4,7 @@
 - Altyazıları okuyup anlayacak kadar İngilizce bilgisi
 - Bolca ☕☕
 
-## Destansı Yolculuğunuzda Karşılaşabileceğiniz Sorunlar (S.S.S)
+## Yolculuğunuzda Karşılaşabileceğiniz Sorunlar (S.S.S)
 #### S.1 -) Yazılım öğrenme sürecinde destek bulabileceğim veya  insanlarla tanışabileceğim platforma ihtiyaç duyuyorum. Türkiye’de bunun için platformlar mevcut mu?
 - C.1-) *Evet*, Türkiye’de aktif olarak çalışan ve harika insanların bulunduğu birçok platform mevcut birkaçından bahsedecek olursak;
 
@@ -110,6 +110,6 @@ Kitap | Yazar | ISBN
 [Computer Graphics: Principles and Practice ](https://www.amazon.com/Computer-Graphics-Principles-Practice-3rd/dp/0321399528) |John F. Hughes | 978-0321399526
 [Introduction to Linear Algebra](https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/0980232775) | Gilbert STRANG | 978-0980232776
 [Programming the Semantic Web](http://shop.oreilly.com/product/9780596153823.do) | Toby Segaran, Colin Evans, Jamie Taylor | 978-0596153816
-
+[Art of Computer Programming](https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043) | Donald Knuth (A very detailed book about DS and Algorithms The bible of computer science !) | -
 # Extra Kaynaklar
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
